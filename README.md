@@ -23,4 +23,7 @@ You can enroll to the full course here:
 - On [Udemy](https://www.udemy.com/course/essentials-of-interpretation/?referralCode=E7D6C9ADFCA273A53950)
 - On [dmitrysoshnikov.education](http://www.dmitrysoshnikov.education/p/essentials-of-interpretation) school
 
-More details, classes, articles and info is on [http://dmitrysoshnikov.com](http://dmitrysoshnikov.com).
+More details, classes, articles and info is on [http://dmitrysoshnikov.com](http://dmitrysoshnikov.com).### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801071338">https://packt.link/free-ebook/9781801071338 </a> </p>
